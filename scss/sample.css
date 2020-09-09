@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body #container {
+  margin-top: 1rem;
+}
+
+body #container .row .search-text {
+  margin-top: .7rem;
+}
+
+body footer {
+  width: 100%;
+  padding: .25rem 0;
+  position: absolute;
+  /*←絶対位置*/
+  bottom: 0;
+  /*下に固定*/
+}
+/*# sourceMappingURL=sample.css.map */
